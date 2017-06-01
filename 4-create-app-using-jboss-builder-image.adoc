@@ -334,7 +334,7 @@ $ curl ks-myjbossapp-userxx.{{APPS_ADDRESS}}
 </html>
 ....
 
-Go to http://ks-myjbossapp-userxx.{{APPS_ADDRESS}} via your browser.
+Go to http://ks-myjbossapp-UserXX.{{APPS_ADDRESS}} via your browser.
 
 IMPORTANT: Please replace *userxx* with the username assigned to you.
 
