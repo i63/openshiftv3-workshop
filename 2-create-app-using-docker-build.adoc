@@ -16,7 +16,7 @@ IMPORTANT: Please replace *userxx* with the username assigned to you in
 the commands below.
 
 ....
-$ oc project mycliproject-userxx
+$ oc project mycliproject-UserXX
 ....
 
 *Step 2: Create an application that uses Dockerfile*
