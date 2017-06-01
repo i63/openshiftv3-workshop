@@ -23,7 +23,7 @@ the commands below.
 
 [source,sh]
 ----
-oc new-project binarydeploy-userxx
+oc new-project binarydeploy-UserXX
 mkdir binarytest && cd binarytest
 mkdir deployments
 ----
