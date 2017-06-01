@@ -11,7 +11,7 @@ IMPORTANT: Please replace *userxx* with the username assigned to you in
 the commands below.
 
 ....
-$ oc new-project mycliproject-userxx --description="My CLI Project" --display-name="CLI Project"
+$ oc new-project mycliproject-UserXX --description="My CLI Project" --display-name="CLI Project"
 ....
 
 Upon project creation, OpenShift will automatically switch to the newly
