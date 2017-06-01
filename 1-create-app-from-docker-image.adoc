@@ -113,7 +113,7 @@ command will allow you to expose your service to the world so that you
 can access it from the browser.
 
 ....
-$ oc expose service welcome --name=welcome --hostname=welcome.userxx.{{APPS_ADDRESS}}
+$ oc expose service welcome --name=welcome --hostname=welcome.UserXX.{{APPS_ADDRESS}}
 
 NAME      HOST/PORT                     PATH      SERVICE   LABELS
 welcome   welcome.userxx.{{APPS_ADDRESS}}             welcome
